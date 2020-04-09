@@ -1,0 +1,15 @@
+﻿body {
+    font-family: Tahoma Bold, Verdana Bold, Haettenschweiler, Helvetica;
+    font-size: 150%;
+    color: white;
+    background: black;
+}
+#textmsgout {
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    top: 50%;
+    left: 50%;
+    margin-left: -250px;
+    margin-top: -55px;
+}
