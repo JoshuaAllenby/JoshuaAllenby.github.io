@@ -3,11 +3,11 @@
     var textlist = [
         "a little knowledge can go a long way",
         
-		"a lot of professionals are crackpots",
+	"a lot of professionals are crackpots",
         
-		"a name means a lot just by itself",
+	"a name means a lot just by itself",
         
-		"physical culture is second best",
+	"physical culture is second best",
 
         "planning for the future is escapism",
 
@@ -195,7 +195,6 @@
 
         "your oldest fears are the worst ones"
 		
-		"sonder - the realization that each random passerby is living a life as vivid and complex as your own; populated with their own ambitions, friends, routines, worries and inherited craziness. An epic story that continues invisibly around you like an anthill sprawling deep underground, with elaborate passageways to thousands of other lives that you’ll never know existed, in which you might appear only once, as an extra sipping coffee in the background, as a blur of traffic passing on the motorway, as a lighted window at dusk.",
     ];
     //Get a random number from 0 to the array length.
     var x = Math.floor((Math.random() * textlist.length));
